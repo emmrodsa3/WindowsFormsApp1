@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Gimnasio.Common/Gimnasio.Common.csproj" />
+  <Project Path="WindowsFormsApp1/WindowsFormsApp1.csproj" Id="49affdb2-fb43-4dbd-ae65-d3d4f244d50c" />
+</Solution>
